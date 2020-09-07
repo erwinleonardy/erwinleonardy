@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="50"/> Salvete, omnes!</h1>
 
-<p>Welcome to my Github page! </br></br> 
-I'm Erwin, a Fullstack developer, who is currently working on <a href="https://pengacaramu.com" target="_blank">Pengacaramu</a>, and based in the hot & sunny <b>Jakarta, Indonesia</b> <img src="https://image.flaticon.com/icons/svg/197/197559.svg" width="15"/>  </p>
+<p>Welcome to my Github page! </br>
+I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack developer, who is currently working on <a href="https://pengacaramu.com" target="_blank">Pengacaramu</a>, and based in the hot & sunny <b>Jakarta, Indonesia</b> <img src="https://image.flaticon.com/icons/svg/197/197559.svg" width="15"/>  </p>
 
 <h3>Things I code with</h3>
 
@@ -48,6 +48,10 @@ I'm Erwin, a Fullstack developer, who is currently working on <a href="https://p
 <h3>My latest post</h3>
 <ul>
   <li><a href="https://medium.com/@erwinleonardy/mustering-up-the-temerity-to-start-a-startup-in-these-uncertain-times-12ec537e5f55"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Mustering up the Temerity to Start a Startup in These Uncertain Times </i></li>
+  <li><a href="https://erwinleonardy.com/2019/03/24/2019-hack-ntu.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/personal-computer_1f4bb.png" width="20" alt="laptop" /> 2019 Hack NTU</i></li>
+  <li><a href="https://erwinleonardy.com/2019/01/24/2019-nus-hack-roll.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/personal-computer_1f4bb.png" width="20" alt="laptop" /> 2019 NUS Hack & Roll</i></li>
+  <li><a href="https://erwinleonardy.com/2018/07/29/sg100-hackathon.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/personal-computer_1f4bb.png" width="20" alt="laptop" /> SG100 Hackathon</i></li>
+  <li><a href="https://erwinleonardy.com/2018/07/07/python-timetable-parser.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/snake_1f40d.png" width="20" alt="snake" /> Python Timetable Parser</i></li>
 </ul>
 
 ------------
