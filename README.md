@@ -1,12 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="50"/> Salvete, omnes!</h1>
 
 <p>Welcome to my Github page! </br></br>
-I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack developer, who is currently working on <a href="https://pengacaramu.com" target="_blank">Pengacaramu</a>, and based in the hot & sunny <b>Jakarta, Indonesia</b> <img src="https://image.flaticon.com/icons/svg/197/197559.svg" width="15"/>  </p>
+I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack developer, who is currently working for a YC-Backed Fintech Startup <a href="https://www.xfers.com/">Xfers</a> and on my side hustle, <a href="https://pengacaramu.com" target="_blank">Pengacaramu</a>.</p>
 
 <h3>Things I code with</h3>
 
 <small>Backend:</small>
 <p>
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-3776AB?style=flat-square&logo=Ruby&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />
@@ -38,6 +39,7 @@ I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack d
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-3776AB?style=flat-square&logo=Redis&logoColor=white" />
   <img alt="Travis CI" src="https://img.shields.io/badge/-Travis_CI-3EAAAF?style=flat-square&logo=Travis&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -47,6 +49,7 @@ I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack d
 
 <h3>My latest post</h3>
 <ul>
+  <li><a href="https://erwinleonardy.medium.com/four-effective-ways-for-falling-in-love-with-reading-e675499dce4b"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/books_1f4da.png" width="20" alt="new" /> 4 Effective Ways for Falling in Love With Reading </i></li>
   <li><a href="https://medium.com/@erwinleonardy/getting-a-job-during-a-pandemic-is-not-a-pipe-dream-a1db02643f28"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/briefcase_1f4bc.png" width="20" alt="new" /> Getting a Job During a Pandemic </i></li>
   <li><a href="https://medium.com/@erwinleonardy/mustering-up-the-temerity-to-start-a-startup-in-these-uncertain-times-12ec537e5f55"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Mustering up the Temerity to Start a Startup in These Uncertain Times </i></li>
   <li><a href="https://erwinleonardy.com/2019/03/24/2019-hack-ntu.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/personal-computer_1f4bb.png" width="20" alt="laptop" /> 2019 Hack NTU</i></li>
