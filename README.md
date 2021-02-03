@@ -49,6 +49,7 @@ I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack d
 
 <h3>My latest post</h3>
 <ul>
+  <li><a href="https://erwinleonardy.medium.com/how-to-utilise-the-growth-mindset-to-overcome-any-setbacks-in-life-2a38ef2f69ed"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/seedling_1f331.png" width="20" alt="new" /> How to Utilise the Growth Mindset to Overcome Any Setbacks in Life </i></li>
   <li><a href="https://erwinleonardy.medium.com/four-effective-ways-for-falling-in-love-with-reading-e675499dce4b"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/books_1f4da.png" width="20" alt="new" /> 4 Effective Ways for Falling in Love With Reading </i></li>
   <li><a href="https://medium.com/@erwinleonardy/getting-a-job-during-a-pandemic-is-not-a-pipe-dream-a1db02643f28"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/briefcase_1f4bc.png" width="20" alt="new" /> Getting a Job During a Pandemic </i></li>
   <li><a href="https://medium.com/@erwinleonardy/mustering-up-the-temerity-to-start-a-startup-in-these-uncertain-times-12ec537e5f55"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Mustering up the Temerity to Start a Startup in These Uncertain Times </i></li>
