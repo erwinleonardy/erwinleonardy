@@ -5,7 +5,7 @@ I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack d
 
 <h3>Things I code with</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erwinleonardy&theme=monokai&border_radius=20&hide_border=true&langs_count=10&hide=jupyter%20notebook&hide_title=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erwinleonardy&theme=monokai&border_radius=20&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css&hide_title=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 <small>Backend:</small>
 <p>
