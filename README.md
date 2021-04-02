@@ -5,6 +5,8 @@ I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack d
 
 <h3>Things I code with</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erwinleonardy&theme=monokai&border_radius=20&hide_border=true&langs_count=10&hide=jupyter%20notebook&hide_title=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+
 <small>Backend:</small>
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-3776AB?style=flat-square&logo=Ruby&logoColor=white" />
@@ -77,4 +79,3 @@ I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack d
         <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
     </a>
 </p>
-
