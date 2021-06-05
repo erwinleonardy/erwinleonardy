@@ -51,8 +51,7 @@ I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack d
 
 <h3>My latest post</h3>
 <ul>
-  <li><a href="
-https://erwinleonardy.medium.com/the-three-things-that-most-computer-science-programmes-didnt-prepare-us-for-4c7262b29668"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="20" alt="new" /> The Three Things that Most Computer Science Programmes Didn't Prepare Us For </i></li>
+  <li><a href="https://erwinleonardy.medium.com/the-three-things-that-most-computer-science-programmes-didnt-prepare-us-for-4c7262b29668"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="20" alt="new" /> The Three Things that Most Computer Science Programmes Didn't Prepare Us For </i></li>
   <li><a href="https://erwinleonardy.medium.com/how-artificial-intelligence-changes-the-way-we-live-90e0c30efe47"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/brain_1f9e0.png" width="20" alt="new" /> How Artificial Intelligence Changes the Way We Live </i></li>
   <li><a href="https://erwinleonardy.medium.com/how-to-utilise-the-growth-mindset-to-overcome-any-setbacks-in-life-2a38ef2f69ed"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/seedling_1f331.png" width="20" alt="new" /> How to Utilise the Growth Mindset to Overcome Any Setbacks in Life </i></li>
   <li><a href="https://erwinleonardy.medium.com/four-effective-ways-for-falling-in-love-with-reading-e675499dce4b"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/books_1f4da.png" width="20" alt="new" /> 4 Effective Ways for Falling in Love With Reading </i></li>
