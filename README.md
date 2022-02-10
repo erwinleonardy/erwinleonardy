@@ -1,5 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="50"/> Salvete, omnes!</h1>
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=erwinleonardy" alt="visitor badge"/>
+
 <p>Welcome to my Github page! </br></br>
 I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack developer, who is currently working for a YC-Backed Fintech Startup <a href="https://www.xfers.com/">Xfers</a> and on my side hustle, <a href="https://pengacaramu.com" target="_blank">Pengacaramu</a>.</p>
 
