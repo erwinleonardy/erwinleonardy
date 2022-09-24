@@ -3,7 +3,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=erwinleonardy" alt="visitor badge"/>
 
 <p>Welcome to my Github page! </br></br>
-I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack developer, who is currently working for a YC-Backed Fintech Startup <a href="https://www.xfers.com/">Xfers</a> and on my side hustle, <a href="https://pengacaramu.com" target="_blank">Pengacaramu</a>.</p>
+I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack developer, who is currently working for one of the Southeast-Asia's decacorns, <a href="https://www.gojek.com/">Gojek</a>.</p>
 
 <h3>Things I code with</h3>
 
