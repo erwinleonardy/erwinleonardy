@@ -12,6 +12,7 @@ I'm <a href="https://erwinleonardy.com" target="_blank">Erwin</a>, a Fullstack d
 <small>Backend:</small>
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-3776AB?style=flat-square&logo=Ruby&logoColor=white" />
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />
